@@ -3,6 +3,7 @@
 /$%7BbaseUrl%7D/favicon.ico
 /$%7Bjndi:ldap://http80path.kryptoslogic-cve-2021-44228.com/http80path%7D
 /%5C/.env
+/..;/ccversion/Version
 /./RestAPI/LogonCustomization
 /.DS_Store
 /.aws
@@ -214,6 +215,7 @@
 /Home/GetInitSource
 /Home/Index/ajaxTJ
 /It2m
+/JSPWiki/
 /Login.htm
 /MyAdmin/scripts/setup.php
 /NFT/allNFT
@@ -1355,6 +1357,10 @@
 /api/v1/games/7e2e35d1-b26f-4d9e-b1de-2158d2e94430
 /api/v1/games/9af30cc6-7b83-4f40-ba33-4447769c4acd
 /api/v1/info
+/api/v1/label/__name__/values
+/api/v1/label/goversion/values
+/api/v1/label/version/values
+/api/v1/labels
 /api/v1/logs
 /api/v1/member/kefu
 /api/v1/mini/content/banner/queryBannerList
@@ -1390,10 +1396,12 @@
 /api/v1/open_api_specs/ecf4dfdf-934e-4213-911c-e50e0be28f67
 /api/v1/open_api_specs/f1190ff9-d443-4d51-8bc6-66c2e40192f7
 /api/v1/pods
+/api/v1/query
 /api/v1/ready
 /api/v1/records
 /api/v1/sessions
 /api/v1/sessions/client/cee94dc3-5c47
+/api/v1/targets
 /api/v1/test/sweeft-bank
 /api/v1/trip
 /api/v1/trip/318ff1c5-52e6-4e35-837a-66c342e46b24/user/ede961e3-8ed0-41ad-877b-9515736cc36b
@@ -5708,6 +5716,7 @@
 /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-600.woff2
 /webjars/springfox-swagger-ui/fonts/titillium-web-v6-latin-700.woff2
 /website/wp-includes/wlwmanifest.xml
+/webtools/control/main
 /welcome
 /wikindex.php
 /wls-wsat/CoordinatorPortType

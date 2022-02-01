@@ -378,12 +378,16 @@
 /etbill/20
 /event/dap_trung
 /event/doan_ngo
+/event/hai_loc
 /event/halloween
 /event/lucky_wheel
+/event/mua_yeu
 /event/nguu_lang
+/event/ong_tao
 /event/sang_che_gia
 /event/tho_san
 /event/trung_thu
+/event/xmas
 /eventClients
 /eventapi
 /evolutionReports/
@@ -574,6 +578,7 @@
 /netbox
 /news
 /newscaster/
+/next/app/share/h5/forward
 /nextcloud/
 /nginx
 /nlp

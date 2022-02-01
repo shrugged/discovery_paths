@@ -1,0 +1,8 @@
+#!/bin/bash
+cat /mnt/mastermind/*/pirates/zipkin//wordlist.txt | sort -u  > zipkin.txt
+cat /mnt/mastermind/*/pirates/traefik/wordlist.txt | sort -u  > traefik.txt
+cat /mnt/mastermind/*/pirates/swagger/wordlist.txt | sort -u  > swagger.txt 
+cat /mnt/mastermind/*/pirates/ruby/wordlist.txt | sort -u  > ruby.txt 
+cat /mnt/mastermind/*/pirates/graphql/wordlist.txt | sort -u  > graphql.txt
+cat /mnt/mastermind/*/pirates/django/wordlist.txt | sort -u  > django.txt
+cat /mnt/mastermind/*/pirates/api_root/wordlist.txt | sort -u  > api_root.txt
